@@ -1,0 +1,2 @@
+DEFAULT_FILE atom Instruction_word_mapper_behav1.vhd
+DEFAULT_ARCHITECTURE atom behav

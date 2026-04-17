@@ -1,0 +1,2 @@
+DEFAULT_FILE atom microprogram_behav1.vhd
+DEFAULT_ARCHITECTURE atom behav
